@@ -40,4 +40,4 @@ On the original Predicting_bike_sharing_data.ipynb, it will show ```DataFrame'ob
  
 Author: [Jayaraj J](https://www.linkedin.com/in/jyjnair)
 
-[You can find me here](jyrj.github.io)
+[You can find me here](https://www.jyrj.github.io)
